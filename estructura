@@ -1,0 +1,26 @@
+hoteles_panama/
+│
+├── config/
+│   └── Database.php
+├── classes/
+│   ├── Usuario.php
+│   ├── Categoria.php
+│   ├── Hotel.php
+│   └── Opinion.php
+├── admin/
+│   ├── index.php
+│   ├── usuarios.php
+│   ├── categorias.php
+│   └── hoteles.php
+├── public/
+│   ├── index.php
+│   └── detalle_hotel.php
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── menu.php
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
